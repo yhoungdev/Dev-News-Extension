@@ -1,0 +1,11 @@
+{
+    "name":"Chromax",
+    "manifest_version":2,
+    "version":"1.0",
+    "description":"this is a simple chrome extension that saves your social media handles ",
+    
+    "chrome_url_overrides" : {
+        "newtab": "www.facebook.com"
+      }
+
+    } 
